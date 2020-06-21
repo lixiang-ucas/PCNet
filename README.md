@@ -10,9 +10,12 @@ This is the source code for our paper **Pc-net: Unsupervised point correspondenc
 Network Architecture
 --------------------
 The architecture of our proposed model is as follows
-![network](framework.png)
+![model](model.png)
 
 
+--------------------
+Illustration of shape morphing.
+![deformation](results1.png)
 
 ## Installation
 * Our code is tested on Tensorflow>1.4 and CUDA 8.0 
